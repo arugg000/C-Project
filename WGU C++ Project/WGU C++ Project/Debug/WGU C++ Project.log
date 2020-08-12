@@ -1,0 +1,5 @@
+﻿  roster.cpp
+C:\Users\hittm\OneDrive\Desktop\C++SchoolProject\roster.cpp(135,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hittm\OneDrive\Desktop\C++SchoolProject\roster.cpp(139,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hittm\OneDrive\Desktop\C++SchoolProject\roster.cpp(143,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  WGU C++ Project.vcxproj -> C:\Users\hittm\OneDrive\Desktop\C++SchoolProject\WGU C++ Project\Debug\WGU C++ Project.exe
